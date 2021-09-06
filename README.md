@@ -1,6 +1,6 @@
 # Attasit
-+ ABC
++ABC
   +A
   +B
   +C
-+ DEF
++DEF
